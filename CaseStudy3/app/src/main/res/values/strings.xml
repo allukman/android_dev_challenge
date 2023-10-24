@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Case Study 3</string>
+    <string name="tarik_tunai">Tarik Tunai</string>
+    <string name="qris_payment">QRIS payment</string>
+    <string name="topup_gopay">Topup Gopay</string>
+    <string name="your_portfolio">Your Portfolio</string>
+</resources>

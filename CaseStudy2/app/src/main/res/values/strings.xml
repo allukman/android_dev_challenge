@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Case Study 2</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="something_wrong">Something Wrong!</string>
+</resources>
